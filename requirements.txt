@@ -6,3 +6,5 @@ pyarrow==8.0.0
 charset-normalizer==2.0.12
 
 snowflake-connector-python==2.7.9
+
+pip install --upgrade pip
