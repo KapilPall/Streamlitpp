@@ -1,5 +1,5 @@
 #requirements.txt 
-snowflake-connector-python==3.10.7
+snowflake-connector-python==2.7.12
 pip==22.2.2
 
 
